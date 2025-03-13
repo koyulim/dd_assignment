@@ -1,0 +1,21 @@
+@media (max-width: 320px) {
+    * {
+        width: 90px;
+    }
+    .video-grid {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 10px;
+    }
+}
+
+@media (min-width: 321px) {
+    * {
+        width: 99.7%;
+    }
+    .video-grid {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 10px;
+    }
+}
