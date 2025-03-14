@@ -9,8 +9,8 @@ HTML 기초 학습 미션으로 만들었던 개인 소개 웹페이지에 div, 
 
 # 결과
 Befor
-![img_before](https://github.com/user-attachments/assets/e55ae4e7-1204-42fa-b717-485304e44ebe)
+![img_before](https://github.com/user-attachments/assets/134cd6ab-ea71-42b8-a27b-146e006d1776)
 <br>
 
 After
-![img_after](https://github.com/user-attachments/assets/25c4eaec-406e-4698-8a7d-228bf1afe94e)
+![img_after](https://github.com/user-attachments/assets/6fc80681-9dd1-4ac7-8e44-c2856b906d5f)
