@@ -8,3 +8,4 @@ if 문과 for 반복문을 사용하여 숫자 배열에서 짝수만 골라 출
 <br>
 
 # 결과
+![img](https://github.com/user-attachments/assets/a8638b16-969c-4b92-9297-bd89c3d50146)
