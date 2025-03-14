@@ -8,3 +8,9 @@ HTML 기초 학습 미션으로 만들었던 개인 소개 웹페이지에 div, 
 <br>
 
 # 결과
+Befor
+![img_before](https://github.com/user-attachments/assets/2087a9c5-0555-4ae5-a2dc-69efa3e5462b)
+<br>
+
+After
+![img_after](https://github.com/user-attachments/assets/25c4eaec-406e-4698-8a7d-228bf1afe94e)
