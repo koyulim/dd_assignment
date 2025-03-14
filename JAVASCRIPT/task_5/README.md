@@ -9,7 +9,7 @@ HTML 기초 학습 미션으로 만들었던 개인 소개 웹페이지에 div, 
 
 # 결과
 Befor
-![img_before](https://github.com/user-attachments/assets/2087a9c5-0555-4ae5-a2dc-69efa3e5462b)
+![img_before](https://github.com/user-attachments/assets/e55ae4e7-1204-42fa-b717-485304e44ebe)
 <br>
 
 After
