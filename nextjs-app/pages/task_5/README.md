@@ -5,3 +5,14 @@ Next.js에서 동적 라우팅을 사용하여 다양한 페이지를 생성하�
 <br>
 
 # 결과
+목록  
+![image](https://github.com/user-attachments/assets/2f050a23-5247-4a58-9deb-2fa4e07e2465)
+
+아이폰 15 클릭 시  
+![image](https://github.com/user-attachments/assets/bed09c57-446d-45db-bb90-eb52fdfeee8c)  
+
+갤럭시 S24 클릭 시  
+![image](https://github.com/user-attachments/assets/e9efc54a-abac-4016-8b98-9ea7b089475e)  
+
+LG 그램 클릭 시  
+![image](https://github.com/user-attachments/assets/e88948ec-d651-43b8-bbbf-f6767292534c)
