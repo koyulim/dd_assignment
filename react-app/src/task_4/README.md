@@ -4,4 +4,5 @@ useEffect를 활용한 데이터 fetching 코드를 결과물로 제출합니다
 
 <br>
 
-# 결과
+# 결과  
+![image](https://github.com/user-attachments/assets/9a2c6dad-2cb8-4851-a979-494ff4a7d0f5)
