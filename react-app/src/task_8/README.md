@@ -5,3 +5,4 @@ TypeScript로 리팩토링된 영화 목록 확인 앱 코드와 실행 결과 �
 <br>
 
 # 결과
+![image](https://github.com/user-attachments/assets/d785f1fd-4170-42c6-921d-e3f8cff81f10)
