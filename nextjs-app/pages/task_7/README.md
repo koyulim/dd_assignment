@@ -5,3 +5,14 @@ Next.js를 사용하여 영화 목록 앱을 여러 페이지로 나누고, 페�
 <br>
 
 # 결과
+목록  
+![image](https://github.com/user-attachments/assets/03bf91f9-9a86-496f-aa18-262fb4fda9dd)  
+
+인터스텔라 클릭 시  
+![image](https://github.com/user-attachments/assets/f898547d-b0aa-46b2-a151-0bda9aa80743)  
+
+인셉션 클릭 시  
+![image](https://github.com/user-attachments/assets/28cce69b-e163-49d3-853a-bd85fe54ecdf)  
+
+테넷 클릭 시  
+![image](https://github.com/user-attachments/assets/7b84062d-d0ec-4207-8c9e-07c7c3efe82b)  
