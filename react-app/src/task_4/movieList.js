@@ -13,7 +13,8 @@ const MovieList = () => {
 
     fetchMovies();
     return () => {
-      console.log("MovieApp 컴포넌트가 언마운트되었습니다.");
+      // console.log("MovieApp 컴포넌트가 언마운트되었습니다.");
+      alert("MovieApp 컴포넌트가 언마운트되었습니다.");
     };
   }, []);
 

@@ -19,7 +19,8 @@ const ExceptionMovie = () => {
         const response = await instance.get(requests.fetchNowPlaying);
         setMovies(response.data.results);
       } catch (error) {
-        console.error("영화 데이터를 불러오는 데 실패했습니다:", error);
+        // console.error("영화 데이터를 불러오는 데 실패했습니다:", error);
+        alert("영화 데이터를 불러오는 데 실패했습니다", error);
       }
     };
 

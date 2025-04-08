@@ -16,6 +16,7 @@ export default function Home() {
           ))}
         </ul>
       </div>
+      <br/>
       <div>
         <h1>task_7</h1>
         <h2>영화 목록</h2>
