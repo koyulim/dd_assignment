@@ -6,3 +6,8 @@ React Context를 이용한 상태 관리 코드와 실행 화면 스크린샷을
 <br>
 
 # 결과
+로그아웃 버튼 클릭 시  
+![image](https://github.com/user-attachments/assets/a947f0c5-fd96-4fc4-a5a6-65e00ccc032e)  
+
+로그인 버튼 클릭 시  
+![image](https://github.com/user-attachments/assets/ef05fb15-9fc2-4bc1-aa15-3c1292ebbe43)
