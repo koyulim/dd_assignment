@@ -6,6 +6,9 @@ Dockerfile과 Docker Compose 설정 파일, 컨테이너에서 실행된 앱 화
 
 # 결과
 실행 명령어 : docker-compose up  
-확인 주소 : http://localhost:3000/
+확인 주소 : http://localhost:3000/  
+
+![image](https://github.com/user-attachments/assets/361e9b54-4c3f-4f3b-9ebc-d3c13e850aa9)
+
 
 
