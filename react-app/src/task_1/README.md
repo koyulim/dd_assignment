@@ -7,7 +7,8 @@
 
 # 결과
 버튼 누르기 전  
-![image](https://github.com/user-attachments/assets/d5fb1f18-a6d4-4286-a75f-87b07374aab3)  
+![image](https://github.com/user-attachments/assets/15cadfd1-66ca-4bf2-bd96-28667d7f7254)  
 
 버튼 누른 후  
-![image](https://github.com/user-attachments/assets/89d4a4ef-aac6-49d6-a171-7ede7c0c12b1)
+![image](https://github.com/user-attachments/assets/2bde56f0-40b6-4810-9cc6-18112438a72d)
+
