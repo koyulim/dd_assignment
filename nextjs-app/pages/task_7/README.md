@@ -15,4 +15,4 @@ Next.js를 사용하여 영화 목록 앱을 여러 페이지로 나누고, 페�
 ![image](https://github.com/user-attachments/assets/28cce69b-e163-49d3-853a-bd85fe54ecdf)  
 
 테넷 클릭 시  
-![image](https://github.com/user-attachments/assets/7b84062d-d0ec-4207-8c9e-07c7c3efe82b)  
+![image](https://github.com/user-attachments/assets/3b2c436b-f057-4b32-8a13-c73689bfd0c4)  
