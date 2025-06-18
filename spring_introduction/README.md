@@ -29,6 +29,7 @@ src/main/webapp/WEB-INF/views/
   - UserService.java
   - UserServiceImpl.java
 
+### 회원 정보 관리 테스트
 [회원 정보 조회]  
 ![get.png](img/get.png)  
 ![get2.png](img/get2.png)  
